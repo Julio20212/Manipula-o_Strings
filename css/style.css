@@ -3,10 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 }
-#caixa {
+caixa {
     width: 200px;
     height: 200px;
     background-color: red;
     margin-top: 20px;
 
+}
+.desaparecer{
+    display: block;
 }
